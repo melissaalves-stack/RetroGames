@@ -1,4 +1,5 @@
-﻿using RetroGames.Model.Model;
+﻿using MySqlConnector;
+using RetroGames.Model.Model;
 
 namespace RetroGames.Repository;
 
